@@ -1,0 +1,15 @@
+# Como usar el generador
+
+1. Ingresar el excel (Hoja de calculos) es formato .csv
+2. Ingresar el .csv dentro de la carpeta (revision)
+3. Seleccionar el archivo [ejecutar.php]
+4. El archivo ha sido generado con el nombre (archivo_actualizado.txt)
+
+Nota: Si es de su eleccion podra descargar el archivo para mejor manipulacion en formato .txt
+
+# Como descargar un archivo .csv
+
+1. En el (docs.google.com) deberas ir a la opcion [Archivo]
+2. Seleccionar la opcion [Descargar]
+3. Seleccionar la opcion [Valores separados por comas (.csv)]
+4. El archivo debera tener el nombre de (controlSAPD.csv)
