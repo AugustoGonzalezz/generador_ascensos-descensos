@@ -1,4 +1,6 @@
-![alt text](Logos/logoSAPD.png)
+<p align="center">
+  <img src="Logos/logoSAPD.png" alt="Logo SAPD" width="200"/>
+</p>
 
 # Generador de Ascensos, Descensos y Expulsiones
 
