@@ -6,7 +6,7 @@
 
 Este proyecto en PHP permite generar automáticamente un informe clasificado de **ascensos**, **descensos** y **expulsiones** dentro de una fuerza policial de un servidor de rol.
 
-Ideal para facilitar el trabajo de supervisores, tenientes, comandantes o encargados de personal en el servidor.
+Ideal para facilitar el trabajo de Sargentos, Tenientes, Comandantes o Encargados de personal en el servidor.
 
 ## 📁 ¿Qué hace este generador?
 
