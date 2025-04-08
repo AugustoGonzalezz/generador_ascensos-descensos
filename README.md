@@ -21,30 +21,29 @@ Ideal para facilitar el trabajo de Sargentos, Tenientes, Comandantes o Encargado
 
 ## 📄 Formato esperado del archivo CSV
 
-Nombre del archivo: `Revision/controlSAPD.csv`
+Nombre del archivo: `controlSAPD.csv`
 
 Columnas obligatorias:
 
 - `Nombre`
-- `Institución`
+- `Institucion`
 - `Rangos` (rango anterior)
 - `Nuevos Rangos` (rango nuevo)
 
 ## 🧠 Jerarquía de rangos usada (de mayor a menor)
 
 1. Comandante  
-2. Capitán  
-3. Comisario  
-4. Teniente  
-5. Sargento II  
-6. Sargento I  
-7. Inspector  
-8. Oficial III  
-9. Oficial II  
-10. Oficial I  
-11. Suboficial  
-12. Cadete  
-13. Estudiante  
+2. Capitán / Comisario  
+3. Teniente  
+4. Sargento II  
+5. Sargento I  
+6. Inspector  
+7. Oficial III  
+8. Oficial II  
+9. Oficial I  
+10. Suboficial  
+11. Cadete  
+12. Estudiante  
 
 *(Puedes modificar el orden dentro del script si tu estructura es distinta.)*
 
@@ -52,6 +51,7 @@ Columnas obligatorias:
 
 - PHP 7.4 o superior
 - Archivo `controlSAPD.csv` colocado en la carpeta `Revision/`
+- XAMPP
 
 ## ⚙️ Uso
 
@@ -69,16 +69,12 @@ php ejecutar.php
 ```
 Reunión Ascensos - 2025-04-07/
 ├── Ascensos/
-│   └── ascensos.txt
+│   └── listado_ascensos.txt
 ├── Descensos/
-│   └── descensos.txt
+│   └── listado_descensos.txt
 └── Expulsiones/
-    └── expulsiones.txt
+    └── listado_expulsiones.txt
 ```
-
-## 📌 Nota sobre expulsiones
-
-Por el momento, el archivo `expulsiones.txt` solo contiene un mensaje informativo. La lógica para detectar expulsiones aún no ha sido implementada.
 
 ## 🤝 Contribuciones
 
