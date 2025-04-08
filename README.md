@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Logos/logoSAPD.png" alt="Logo SAPD" width="200"/>
+  <img src="assets/logoSAPD.png" alt="Logo SAPD" width="200"/>
 </p>
 
 # Generador de Ascensos, Descensos y Expulsiones
@@ -91,3 +91,7 @@ Por el momento, el archivo `expulsiones.txt` solo contiene un mensaje informativ
 ---
 
 📂 Proyecto pensado para mejorar la organización interna del **SAPD - San Andreas Police Department** en servidores de rol.
+
+<p align="center">
+  <img src="assets/bannerSAPD.png" alt="Banner SAPD" width="200"/>
+</p>
