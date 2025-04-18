@@ -75,7 +75,11 @@ Reunión Ascensos - 2025-04-07/
 └── Expulsiones/
     └── listado_expulsiones.txt
 ```
-## 🎬 Tutorial
+## 🎬 Videos
+A continuacion podras visualizar lo que devuelve la aplicacion al ser ejecutada.
+
+Link : (Proximamente)
+
 A continuacion podras visualizar una guia explicativa (Audiovisual) para aprender como utilizar el script.
 
 Link : (Proximamente)
