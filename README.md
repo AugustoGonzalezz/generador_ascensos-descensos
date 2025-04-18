@@ -77,6 +77,7 @@ Reunión Ascensos - 2025-04-07/
 ```
 ## 🎬 Tutorial
 A continuacion podras visualizar una guia explicativa (Audiovisual) para aprender como utilizar el script.
+
 Link : (Proximamente)
 
 ## 🤝 Contribuciones
