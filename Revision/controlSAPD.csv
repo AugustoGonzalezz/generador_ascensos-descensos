@@ -1,0 +1,16 @@
+Nombre,Nivel,Institución,Placa,Rangos,Nuevos Rangos
+Emma Martinez,1,SAPD,0001,Comandante,Comandante
+Daniel Vannucci,2,LSSD,2000,Comisario,Comisario
+Jesus Rodriguez,3,LSPD,1001,Teniente,
+Fernando Martínez,3,LSSD,2001,Teniente,
+Dexter Collins,3,LSPD,1002,Teniente,
+Nombre01,4,LSSD,2004,Sargento II,Sargento II
+Nombre02,5,LSSD,2003,Sargento I,Sargento II
+Nombre03,5,LSPD,1003,Detective I,Detective I
+Nombre04,6,LSSD,2007,Inspector,Sargento I
+Nombre05,7,LSPD,1012,Oficial III,Sargento I
+Nombre06,8,LSPD,1006,Oficial II,Oficial II
+Nombre07,9,LSSD,2022,Oficial I,Oficial I
+Nombre08,10,LSPD,1020,Suboficial,Oficial I
+Nombre09,11,LSPD,1005,Cadete,Suboficial
+Nombre10,12,LSPD,1032,Cadete,Cadete
