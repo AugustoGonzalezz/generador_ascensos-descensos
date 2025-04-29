@@ -50,7 +50,7 @@ Columnas obligatorias:
 ## ✅ Requisitos
 
 - PHP 7.4 o superior
-- Archivo `controlSAPD.csv` colocado en la carpeta `Revision/`
+- Archivo `controlSAPD.csv` colocado en la carpeta `Revision/` (Eliminar el archivo existente el cual es un ejemplo.)
 - XAMPP
 
 ## ⚙️ Uso
@@ -76,11 +76,11 @@ Reunión Ascensos - 2025-04-07/
     └── listado_expulsiones.txt
 ```
 ## 🎬 Videos
-A continuacion podras visualizar lo que devuelve la aplicacion al ser ejecutada.
+A continuación podrás visualizar lo que devuelve la aplicacion al ser ejecutada.
 
 Link : (Proximamente)
 
-A continuacion podras visualizar una guia explicativa (Audiovisual) para aprender como utilizar el script.
+A continuación podrás visualizar una guia explicativa (Audiovisual) para aprender como utilizar el script.
 
 Link : (Proximamente)
 
